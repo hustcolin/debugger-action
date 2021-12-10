@@ -1,4 +1,4 @@
-name: Debugging with SSHsss
+name: test1
 on:
   push:
     branches:
