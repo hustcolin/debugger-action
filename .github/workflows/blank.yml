@@ -1,8 +1,8 @@
-name: test13
+name: test_ngork
 on:
   push:
     branches:
-      - test_ngork
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
