@@ -1,4 +1,4 @@
-name: test_ngork1
+name: test_ngork
 on:
   push:
     branches:
